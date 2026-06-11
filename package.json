@@ -21,7 +21,7 @@
         "trailingComma": "none"
     },
     "dependencies": {
-        "@aws-sdk/client-s3": "^3.826.0",
+        "@aws-sdk/client-s3": "^3.1046.0",
         "@fullstacked/ai-agent": "github:fullstackedorg/ai-agent",
         "@fullstacked/code-editor": "github:fullstackedorg/code-editor#3ce05f26fbf14f2ccda5a67ef53d8f45e7017393",
         "@fullstacked/codemirror-view": "github:fullstackedorg/codemirror-view",
